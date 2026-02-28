@@ -1,22 +1,22 @@
 # 👋 Hi, I'm Rahul Kumar Bhuyan
 
-🚀 Aspiring Data Scientist  
-💻 Python Developer | DSA Learner  
-📊 Turning Data into Insights  
+Aspiring Data Scientist  
+Python Developer | DSA Learner  
+Turning Data into Insights  
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
-- 🌱 Currently learning Data Structures & Algorithms  
-- 🐍 Building real-world projects using Python  
-- 📊 Interested in Data Science & Machine Learning  
-- 🎯 Goal: Become a skilled Data Scientist  
-- 🔥 Consistent learner & project builder  
+- Currently learning Data Structures & Algorithms  
+- Building real-world projects using Python  
+- Interested in Data Science & Machine Learning  
+- Goal: Become a skilled Data Scientist  
+- Consistent learner & project builder  
 
 ---
 
-## 🛠️ Skills  
+## Skills  
 
 - Python  
 - Data Structures & Algorithms  
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧰 Tools I Use  
+## Tools I Use  
 
 - VS Code  
 - Jupyter Notebook  
@@ -34,7 +34,7 @@
 
 ---
 
-## 📌 Current Focus  
+## Current Focus  
 
 - Solving DSA problems daily  
 - Uploading Python projects  
@@ -42,6 +42,7 @@
 
 ---
 
-## 📫 Connect With Me  
+## Connect With Me  
+YouTube : (UChtVZ3dlafzoxwqt2GP5eVw)
+Location : (Berhampur, Odisha, India)
 
-📍 Odisha, India
