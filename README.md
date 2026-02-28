@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Rahul Kumar Bhuyan
 
-<!--
-**rahuldeveloper2006/rahuldeveloper2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Scientist  
+💻 Python Developer | DSA Learner  
+📊 Turning Data into Insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+- 🌱 Currently learning Data Structures & Algorithms  
+- 🐍 Building real-world projects using Python  
+- 📊 Interested in Data Science & Machine Learning  
+- 🎯 Goal: Become a skilled Data Scientist  
+- 🔥 Consistent learner & project builder  
+
+---
+
+## 🛠️ Skills  
+
+- Python  
+- Data Structures & Algorithms  
+- Machine Learning (Basics)  
+- JSON & File Handling  
+- Problem Solving  
+
+---
+
+## 🧰 Tools I Use  
+
+- VS Code  
+- Jupyter Notebook  
+- Git & GitHub  
+
+---
+
+## 📌 Current Focus  
+
+- Solving DSA problems daily  
+- Uploading Python projects  
+- Learning Data Analysis & ML  
+
+---
+
+## 📫 Connect With Me  
+
+📍 Odisha, India
