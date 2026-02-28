@@ -22,14 +22,16 @@ Turning Data into Insights
 - Data Structures & Algorithms  
 - Machine Learning (Basics)  
 - JSON & File Handling  
-- Problem Solving  
+- Problem Solving
+- Java (basic) 
 
 ---
 
 ## Tools I Use  
 
 - VS Code  
-- Jupyter Notebook  
+- Jupyter Notebook
+- Dev-c++
 - Git & GitHub  
 
 ---
