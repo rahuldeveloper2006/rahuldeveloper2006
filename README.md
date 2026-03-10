@@ -40,7 +40,7 @@ Turning Data into Insights
 
 - Solving DSA problems daily  
 - Uploading Python projects  
-- Learning Data Analysis & ML  
+- Learning Data Science & ML  
 
 ---
 
